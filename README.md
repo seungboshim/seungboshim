@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안뇽하세요 🫠
 
 <!--
 **seungboshim/seungboshim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
