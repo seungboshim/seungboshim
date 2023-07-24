@@ -1,4 +1,6 @@
-## 안뇽하세요 🫠
+## Seungbo Shim 🫠
+🎓 INHA Univ. Information Communication Engineering </br>
+🏠 UJB / ICN
 
 ### My log...
 <a href="https://velog.io/@seungboshim"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
@@ -12,3 +14,12 @@
 ### Stack for 찍먹...
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> </br>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/>
+
+
+## Projects
+
+### TRIP-Y (23. 06~ ing)
+as FE Developer
+
+### 당신의 발자취 (22. 12~ 23. 02)
+as UI/UX Designer
