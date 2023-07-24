@@ -18,8 +18,8 @@
 
 ## Projects
 
-### TRIP-Y (23. 06~ ing)
+### ✈️ TRIP-Y (23. 06~ ing)
 as FE Developer
 
-### 당신의 발자취 (22. 12~ 23. 02)
+### 👣 당신의 발자취 (22. 12~ 23. 02)
 as UI/UX Designer
