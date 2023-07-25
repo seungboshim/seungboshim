@@ -1,13 +1,16 @@
 <div align=center>
   
 ## Seungbo Shim 🫠
-🎓 INHA Univ. Information Communication Engineering 🎓 </br>
+🎓 INHA Univ. 🎓 </br>
+Information Communication Engineering </br>
 
 🎧 LUCY - 결국 아무것도 알 수 없었지만 🎧 </br>
 
 #### My log
 <a href="https://velog.io/@seungboshim"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
-<a href="https://pedaltodamedal.tistory.com/"> <img src="https://img.shields.io/badge/Tistory-EB531F?style=flat&logo=Tistory&logoColor=white"/></a>
+<a href="https://pedaltodamedal.tistory.com/"> <img src="https://img.shields.io/badge/Tistory-EB531F?style=flat&logo=Tistory&logoColor=white"/></a> </br>
+<a href="https://www.instagram.com/sngbong__/"> <img src="https://img.shields.io/badge/sngbong__-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/honbapshimmy/"> <img src="https://img.shields.io/badge/honbapshimmy-F27121?style=flat&logo=instagram&logoColor=white"/></a> </br>
 
 #### Stack In Learning
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/> </br>
