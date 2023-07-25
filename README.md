@@ -13,9 +13,11 @@
 
 ### Stack for 찍먹...
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> </br>
-<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/> </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungboshim&layout=compact)](https://github.com/seungboshim/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungboshim)](https://github.com/seungboshim/github-readme-stats)
+
 
 ## Projects
 
@@ -24,3 +26,6 @@ as FE Developer
 
 ### 👣 당신의 발자취 (22. 12~ 23. 02)
 as UI/UX Designer
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungboshim&theme=vue&count_private=true&show_icons=true)](https://github.com/seungboshim/github-readme-stats)
