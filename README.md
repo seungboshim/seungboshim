@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/> </br>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungboshim&layout=compact)](https://github.com/seungboshim/github-readme-stats)
 
 ## Projects
 
