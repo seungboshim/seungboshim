@@ -4,7 +4,7 @@
 🎓 INHA Univ. 🎓 </br>
 Information Communication Engineering </br>
 
-🎧 LUCY - 결국 아무것도 알 수 없었지만 🎧 </br>
+<a href="https://www.youtube.com/watch?v=GPXx-VVked8">🎧 LUCY - 결국 아무것도 알 수 없었지만 🎧</a></br>
 
 #### My log
 <a href="https://velog.io/@seungboshim"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
