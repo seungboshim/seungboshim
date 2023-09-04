@@ -23,19 +23,23 @@ Information Communication Engineering </br>
 
 #### Tools
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/> </br>
-<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/> </br>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/> </br>
 
 </br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungboshim)](https://github.com/seungboshim/github-readme-stats)
 
 
 ## Projects
 
-#### ✈️ TRIP-Y (23. 06~ ing)
+#### 🗳️ 종합설계 프로젝트 (23. 08~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/>
+블록체인과 강화학습을 활용한 여론조사 플랫폼 </br>
 as FE Developer </br>
 
-#### 👣 당신의 발자취 (22. 12~ 23. 02)
+#### ✈️ TRIP-Y (23. 06~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/>
+여행의 시작부터 끝까지, TRIPY와 함께 </br>
+as FE Developer </br>
+
+#### 👣 당신의 발자취 (22. 12~ 23. 02) <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat"/>
+당발에서 당신의 발자국을 남겨보세요 </br>
 as UI/UX Designer </br> 
 
 </br>
