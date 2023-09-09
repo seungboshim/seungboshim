@@ -32,7 +32,7 @@ Information Communication Engineering </br>
 
 #### 🗳️ 종합설계 프로젝트 (23. 08~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/>
 블록체인과 강화학습을 활용한 여론조사 플랫폼 </br>
-as FE Developer </br>
+as FE Developer & UI/UX Designer </br>
 
 #### ✈️ TRIP-Y (23. 06~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/>
 여행의 시작부터 끝까지, TRIPY와 함께 </br>
