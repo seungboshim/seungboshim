@@ -31,15 +31,15 @@ Information Communication Engineering </br>
 
 ## Projects
 
-#### 🗳️ 종합설계 프로젝트 (23. 08~ ing) <a href="https://github.com/Inha-ICE-Capstone"><img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/></a>
+#### 🗳️ 종합설계 프로젝트 (23. 08~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/Inha-ICE-Capstone">🔗</a>
 블록체인과 강화학습을 활용한 여론조사 플랫폼 </br>
 as FE Developer & UI/UX Designer </br>
 
-#### ✈️ TRIP-Y (23. 06~ ing) <a href="https://github.com/UMC-TRIPY"><img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/></a>
+#### ✈️ TRIP-Y (23. 06~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/UMC-TRIPY">🔗</a>
 여행의 시작부터 끝까지, TRIPY와 함께 </br>
 as FE Developer </br>
 
-#### 👣 당신의 발자취 (22. 12~ 23. 02) <a href="https://github.com/UMC-Foot-Step" style="text-decoration: none"><img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat"/></a>
+#### 👣 당신의 발자취 (22. 12~ 23. 02) <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat"/> <a href="https://github.com/UMC-Foot-Step">🔗</a>
 당발에서 당신의 발자국을 남겨보세요 </br>
 as UI/UX Designer </br> 
 
