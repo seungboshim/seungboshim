@@ -4,14 +4,14 @@
 🎓 INHA Univ. 🎓 </br>
 Information Communication Engineering </br>
 
-<a href="https://www.youtube.com/watch?v=TfK06QwuiGc" target="_blank">🎧 실리카겔 - 9 🎧</a></br>
+<a href="https://www.youtube.com/watch?v=TfK06QwuiGc">🎧 실리카겔 - 9 🎧</a></br>
 
 #### My log
-<a href="https://velog.io/@seungboshim" target="_blank"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://pedaltodamedal.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=Tistory&logoColor=white"/></a> </br>
-<a href="https://www.instagram.com/sngbong__/" target="_blank"> <img src="https://img.shields.io/badge/sngbong__-FF7A00?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://www.instagram.com/shimmy_lab/" target="_blank"> <img src="https://img.shields.io/badge/shimmy_lab-FF0069?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://www.instagram.com/honbapshimmy/" target="_blank"> <img src="https://img.shields.io/badge/honbapshimmy-D300C5?style=flat-square&logo=instagram&logoColor=white"/></a> </br>
+<a href="https://velog.io/@seungboshim"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://pedaltodamedal.tistory.com/"> <img src="https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=Tistory&logoColor=white"/></a> </br>
+<a href="https://www.instagram.com/sngbong__/"> <img src="https://img.shields.io/badge/sngbong__-FF7A00?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/shimmy_lab/"> <img src="https://img.shields.io/badge/shimmy_lab-FF0069?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/honbapshimmy/"> <img src="https://img.shields.io/badge/honbapshimmy-D300C5?style=flat-square&logo=instagram&logoColor=white"/></a> </br>
 
 #### Stack In Learning
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> </br>
@@ -31,15 +31,15 @@ Information Communication Engineering </br>
 
 ## Projects
 
-#### 🗳️ 종합설계 프로젝트 (23. 08~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/>
+#### 🗳️ 종합설계 프로젝트 (23. 08~ ing) <a href="https://github.com/Inha-ICE-Capstone"><img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/></a>
 블록체인과 강화학습을 활용한 여론조사 플랫폼 </br>
 as FE Developer & UI/UX Designer </br>
 
-#### ✈️ TRIP-Y (23. 06~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/>
+#### ✈️ TRIP-Y (23. 06~ ing) <a href="https://github.com/UMC-TRIPY"><img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/></a>
 여행의 시작부터 끝까지, TRIPY와 함께 </br>
 as FE Developer </br>
 
-#### 👣 당신의 발자취 (22. 12~ 23. 02) <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat"/>
+#### 👣 당신의 발자취 (22. 12~ 23. 02) <a href="https://github.com/UMC-Foot-Step" style="text-decoration: none"><img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat"/></a>
 당발에서 당신의 발자국을 남겨보세요 </br>
 as UI/UX Designer </br> 
 
