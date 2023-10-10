@@ -1,12 +1,12 @@
 <div align=center>
   
-## Seungbo Shim 🫠
+<h2>Seungbo Shim 🫠</h2>
 🎓 INHA Univ. 🎓 </br>
 Information Communication Engineering </br>
 
 <a href="https://www.youtube.com/watch?v=TfK06QwuiGc">🎧 실리카겔 - 9 🎧</a></br>
 
-#### My log
+<h4>My log</h4>
 <a href="https://velog.io/@seungboshim"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://pedaltodamedal.tistory.com/"> <img src="https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=Tistory&logoColor=white"/></a> </br>
 <a href="https://www.instagram.com/sngbong__/"> <img src="https://img.shields.io/badge/sngbong__-FF7A00?style=flat-square&logo=instagram&logoColor=white"/></a>
