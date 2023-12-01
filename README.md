@@ -32,8 +32,8 @@ Information Communication Engineering </br>
 ## Projects
 
 #### 🗳️ 종합설계 프로젝트 (23. 08~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/Inha-ICE-Capstone">🔗</a>
-블록체인과 강화학습을 활용한 여론조사 플랫폼 </br>
-as FE Developer & UI/UX Designer </br>
+블록체인을 활용한 신뢰성 있는 전자투표 플랫폼과 인공지능 활용 방안 연구 </br>
+as FE Developer, UI/UX Designer & AI </br>
 
 #### ✈️ TRIP-Y (23. 06~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/UMC-TRIPY">🔗</a>
 여행의 시작부터 끝까지, TRIPY와 함께 </br>
