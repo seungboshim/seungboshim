@@ -47,7 +47,7 @@ Information Communication Engineering </br>
 
 ## Projects
 
-#### 🪴 하고심다 (24. 01~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/wantPlant/wantPlant_WFE">🔗</a>
+#### 🪴 하고심다 (24. 01~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/wantPlant">🔗</a>
 as FE Lead Developer </br>
 
 #### 🗳️ 종합설계 프로젝트 (23. 08~ 23. 12) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/Inha-ICE-Capstone">🔗</a>
