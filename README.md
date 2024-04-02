@@ -9,6 +9,7 @@ Information Communication Engineering </br>
 #### My Log
 <a href="https://velog.io/@seungboshim"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://www.instagram.com/sngbong__/"> <img src="https://img.shields.io/badge/sngbong____-FF0069?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/norock._.dorock/"> <img src="https://img.shields.io/badge/나락도락-FF7A00?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 #### Front-end
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
