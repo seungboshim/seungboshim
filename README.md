@@ -10,32 +10,37 @@ Information Communication Engineering </br>
 <a href="https://velog.io/@seungboshim"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="https://pedaltodamedal.tistory.com/"> <img src="https://img.shields.io/badge/Tistory-EB531F?style=flat-square&logo=Tistory&logoColor=white"/></a> </br>
 <a href="https://www.instagram.com/sngbong__/"> <img src="https://img.shields.io/badge/sngbong____-FF7A00?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://www.instagram.com/shimmy_lab/"> <img src="https://img.shields.io/badge/shimmy__lab-FF0069?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://www.instagram.com/honbapshimmy/"> <img src="https://img.shields.io/badge/honbapshimmy-D300C5?style=flat-square&logo=instagram&logoColor=white"/></a> </br>
+<a href="https://www.instagram.com/norock._.dorock/"> <img src="https://img.shields.io/badge/나락도락-FF0069?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/honbapshimmy/"> <img src="https://img.shields.io/badge/혼밥시미-D300C5?style=flat-square&logo=instagram&logoColor=white"/></a> </br>
 
 #### Front-end
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> </br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/> </br>
+<img src="https://img.shields.io/badge/React-native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 #### In Learning
+<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> </br>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 
 #### For 찍먹
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> </br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
-#### Tools
-<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/> </br>
+#### Tools / Colab
+<img src="https://img.shields.io/badge/PS24-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/> 
+<img src="https://img.shields.io/badge/AI24-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/> 
+<img src="https://img.shields.io/badge/PR24-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/> 
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> </br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 
 </br>
 
