@@ -34,17 +34,22 @@ Information Communication Engineering </br>
 <img src="https://img.shields.io/badge/PR24-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>
 
 </br>
+</br>
 
 ## Projects
 
-#### 🪴 하고심다 (24. 01~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/wantPlant">🔗</a>
+#### 🚕 모두의 택시 (24. 03~ ) <img src="https://img.shields.io/badge/iOS-424242?style=flat"/> <a href="https://github.com/modu-taxi">🔗</a>
+as iOS Developer </br>
+
+#### 🪴 하고심다 (24. 01~ ) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/wantPlant">🔗</a>
+화분에 물을 주며 나만의 정원을 가꾸는 투두리스트 플랫폼 </br>
 as FE Lead Developer </br>
 
 #### 🗳️ 종합설계 프로젝트 (23. 08~ 23. 12) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/Inha-ICE-Capstone">🔗</a>
 블록체인을 활용한 신뢰성 있는 전자투표 플랫폼과 인공지능 활용 방안 연구 </br>
 as FE Developer, UI/UX Designer & AI </br>
 
-#### ✈️ TRIP-Y (23. 06~ ing) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/UMC-TRIPY">🔗</a>
+#### ✈️ TRIP-Y (23. 06~ ) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/UMC-TRIPY">🔗</a>
 여행의 시작부터 끝까지, TRIPY와 함께 </br>
 as FE Developer </br>
 
@@ -54,6 +59,6 @@ as UI/UX Designer </br>
 
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungboshim&theme=vue&count_private=true&show_icons=true)](https://github.com/seungboshim/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungboshim&theme=vue&count_private=true&show_icons=true)](https://github.com/seungboshim/github-readme-stats) </br> </br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fodo8563)](https://solved.ac/fodo8563/)
 </div>
