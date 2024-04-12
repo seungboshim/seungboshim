@@ -12,11 +12,11 @@ Information Communication Engineering </br>
 <a href="https://www.instagram.com/norock._.dorock/"> <img src="https://img.shields.io/badge/나락도락-FF7A00?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 #### Front-end
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> </br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> </br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/> </br>
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
 #### In Learning
@@ -38,27 +38,26 @@ Information Communication Engineering </br>
 
 ## Projects
 
-#### 🚕 모두의 택시 (24. 03~ ) <img src="https://img.shields.io/badge/iOS-424242?style=flat"/> <a href="https://github.com/modu-taxi">🔗</a>
+#### 🚕 모두의 택시 (24. 03~ ) <a href="https://github.com/modu-taxi">🔗 <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/RN-61DAFB?style=flat"/></a> 
 as iOS Developer </br>
 
-#### 🪴 하고심다 (24. 01~ ) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/wantPlant">🔗</a>
+#### 🪴 하고심다 (24. 01~ ) <a href="https://github.com/wantPlant">🔗 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat"/> </a>
 화분에 물을 주며 나만의 정원을 가꾸는 투두리스트 플랫폼 </br>
 as FE Lead Developer </br>
 
-#### 🗳️ 종합설계 프로젝트 (23. 08~ 23. 12) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/Inha-ICE-Capstone">🔗</a>
+#### 🗳️ 종합설계 프로젝트 (23. 08~ 23. 12) <a href="https://github.com/Inha-ICE-Capstone">🔗 <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/NEXT-000000?style=flat"/></a>
 블록체인을 활용한 신뢰성 있는 전자투표 플랫폼과 인공지능 활용 방안 연구 </br>
 as FE Developer, UI/UX Designer & AI </br>
 
-#### ✈️ TRIP-Y (23. 06~ ) <img src="https://img.shields.io/badge/WEB-61DAFB?style=flat"/> <a href="https://github.com/UMC-TRIPY">🔗</a>
+#### ✈️ TRIP-Y (23. 06~ ) <a href="https://github.com/UMC-TRIPY">🔗 <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/NEXT-000000?style=flat"/></a>
 여행의 시작부터 끝까지, TRIPY와 함께 </br>
 as FE Developer </br>
 
-#### 👣 당신의 발자취 (22. 12~ 23. 02) <img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat"/> <a href="https://github.com/UMC-Foot-Step">🔗</a>
+#### 👣 당신의 발자취 (22. 12~ 23. 02) <a href="https://github.com/UMC-Foot-Step">🔗</a>
 당발에서 당신의 발자국을 남겨보세요 </br>
 as UI/UX Designer </br> 
 
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungboshim&theme=vue&count_private=true&show_icons=true)](https://github.com/seungboshim/github-readme-stats) </br> </br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fodo8563)](https://solved.ac/fodo8563/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungboshim&theme=vue&count_private=true&show_icons=true)](https://github.com/seungboshim/github-readme-stats) 
 </div>
