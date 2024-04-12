@@ -54,7 +54,7 @@ as FE Developer, UI/UX Designer & AI </br>
 여행의 시작부터 끝까지, TRIPY와 함께 </br>
 as FE Developer </br>
 
-#### 👣 당신의 발자취 (22. 12~ 23. 02) <a href="https://github.com/UMC-Foot-Step">🔗</a>
+#### 👣 당신의 발자취 (22. 12~ 23. 02) <a href="https://github.com/UMC-Foot-Step">🔗 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat"/></a>
 당발에서 당신의 발자국을 남겨보세요 </br>
 as UI/UX Designer </br> 
 
