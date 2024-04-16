@@ -4,7 +4,7 @@
 🎓 INHA Univ. 🎓 </br>
 Information Communication Engineering </br>
 
-<a href="https://www.youtube.com/watch?v=0h3uYpq4eps">🎧 행로난 - 초신성 🎧</a></br>
+<a href="https://www.youtube.com/watch?v=uV5kD9eUpcU">🎧 Lacuna - 우주의 여름 🎧</a></br>
 
 #### My Log
 <a href="https://velog.io/@seungboshim"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
@@ -40,7 +40,7 @@ Information Communication Engineering </br>
 ## Projects
 
 #### 🚕 모두의 택시 (24. 03~ ) <a href="https://github.com/modu-taxi">🔗 <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/RN-61DAFB?style=flat"/></a> 
-as iOS Developer </br>
+as iOS (React-native) Developer </br>
 
 #### 🪴 하고심다 (24. 01~ ) <a href="https://github.com/wantPlant">🔗 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat"/> </a>
 화분에 물을 주며 나만의 정원을 가꾸는 투두리스트 플랫폼 </br>
