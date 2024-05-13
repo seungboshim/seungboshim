@@ -16,8 +16,9 @@ Information Communication Engineering </br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> </br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/> </br>
-<img src="https://img.shields.io/badge/React-native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-native-61DAFB?style=flat-square&logo=React&logoColor=white"/> </br>
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
 
 #### In Learning
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
