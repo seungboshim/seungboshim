@@ -1,10 +1,11 @@
 <div align=center>
+<h2>Seungbo Shim 🫠 Shimmy </h2>
+<img src="https://github.com/seungboshim/seungboshim/assets/112371013/10cfd83e-7517-4c8a-a991-4c940ffc2cb5" />
   
-<h2>Seungbo Shim 🫠</h2>
 🎓 INHA Univ. 🎓 </br>
 Information Communication Engineering </br>
 
-<a href="https://www.youtube.com/watch?v=V0fhnSMJR1A">🎧 한로로 - 먹이사슬 🎧</a></br>
+<a href="https://www.youtube.com/watch?v=RWMIDk2e2U4">🎧 한로로 - 보수공사 🎧</a></br>
 
 #### My Log
 <a href="https://velog.io/@seungboshim"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
