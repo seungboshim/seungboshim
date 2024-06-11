@@ -13,6 +13,10 @@ Information Communication Engineering </br>
 <a href="https://www.instagram.com/sngbong__/"> <img src="https://img.shields.io/badge/sngbong____-FF0069?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.instagram.com/narock._.dorock/"> <img src="https://img.shields.io/badge/나락도락-FF7A00?style=flat-square&logo=instagram&logoColor=white"/></a>
 
+#### Experiences
+<img src="https://img.shields.io/badge/LG U+ Ureca-1기-D60078?style=flat-square&logo=LG&logoColor=white"/></br>
+<img src="https://img.shields.io/badge/Univ. Makeus Challenge-3~6기-00C300?style=flat-square&logo=UMC&logoColor=white"/>
+
 #### Front-end
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> </br>
