@@ -49,17 +49,17 @@ Information Communication Engineering </br>
 #### 🚕 모두의 택시 (24. 03~ ) <a href="https://github.com/modu-taxi">🔗 <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/RN-61DAFB?style=flat"/></a> 
 as iOS (React-native) Developer </br>
 
-#### 🪴 하고심다 (24. 01~ ) <a href="https://github.com/wantPlant">🔗 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat"/> </a>
-화분에 물을 주며 나만의 정원을 가꾸는 투두리스트 플랫폼 </br>
-as FE Lead Developer </br>
+#### ✈️ TRIP-Y (23. 06~ ) <a href="https://github.com/UMC-TRIPY">🔗 <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/NEXT-000000?style=flat"/></a>
+여행의 시작부터 끝까지, TRIPY와 함께 </br>
+as FE Developer </br>
 
 #### 🗳️ 종합설계 프로젝트 (23. 08~ 23. 12) <a href="https://github.com/Inha-ICE-Capstone">🔗 <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/NEXT-000000?style=flat"/></a>
 블록체인을 활용한 신뢰성 있는 전자투표 플랫폼과 인공지능 활용 방안 연구 </br>
 as FE Developer, UI/UX Designer & AI </br>
 
-#### ✈️ TRIP-Y (23. 06~ ) <a href="https://github.com/UMC-TRIPY">🔗 <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/NEXT-000000?style=flat"/></a>
-여행의 시작부터 끝까지, TRIPY와 함께 </br>
-as FE Developer </br>
+#### 🪴 하고심다 (24. 01~ ) <a href="https://github.com/wantPlant">🔗 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat"/> </a>
+화분에 물을 주며 나만의 정원을 가꾸는 투두리스트 플랫폼 </br>
+as FE Lead Developer </br>
 
 #### 👣 당신의 발자취 (22. 12~ 23. 02) <a href="https://github.com/UMC-Foot-Step">🔗 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat"/></a>
 당발에서 당신의 발자국을 남겨보세요 </br>
