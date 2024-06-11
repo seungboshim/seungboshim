@@ -9,7 +9,7 @@ Information Communication Engineering </br>
 
 #### My Log
 <a href="https://velog.io/@seungboshim"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-<a href="https://noon-iodine-e0d.notion.site/Seungbo-Shim-090b4d1bbd95431e842ac56c3e545589"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a></br>
+<a href="https://noon-iodine-e0d.notion.site/SHIMMY-b93e295a23dc4b9eb3276d1fb499fa72"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white"/></a></br>
 <a href="https://www.instagram.com/sngbong__/"> <img src="https://img.shields.io/badge/sngbong____-FF0069?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.instagram.com/narock._.dorock/"> <img src="https://img.shields.io/badge/나락도락-FF7A00?style=flat-square&logo=instagram&logoColor=white"/></a>
 
