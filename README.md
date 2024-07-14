@@ -67,5 +67,5 @@ as UI/UX Designer </br>
 
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungboshim&theme=vue&count_private=true&show_icons=true)](https://github.com/seungboshim/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungboshim&theme=shadow_red&count_private=true&show_icons=true)](https://github.com/seungboshim/github-readme-stats) 
 </div>
