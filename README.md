@@ -5,7 +5,7 @@
 🎓 INHA Univ. 🎓 </br>
 Information Communication Engineering </br>
 
-<a href="https://www.youtube.com/watch?v=RWMIDk2e2U4">🎧 한로로 - 보수공사 🎧</a></br>
+<a href="https://www.youtube.com/watch?v=rt7M0hbLg48">🎧 혁오, 선셋롤러코스터 - Y 🎧</a></br>
 
 #### My Log
 <a href="https://velog.io/@seungboshim"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
