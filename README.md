@@ -30,10 +30,11 @@ Information Communication Engineering </br> </p>
 
 #### Back-end
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/> </br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> </br>
 <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/ElastiCache-C925D1?style=flat-square&logo=amazonelasticache&logoColor=white"/>
 
 </br>
 </br>
