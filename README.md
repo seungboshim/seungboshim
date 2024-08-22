@@ -1,7 +1,8 @@
 <div align=center>
 <h2>Seungbo Shim 🫠 Shimmy </h2>
 <img src="https://github.com/seungboshim/seungboshim/assets/112371013/10cfd83e-7517-4c8a-a991-4c940ffc2cb5" />
-  
+
+#### JavaScript Developer
 🎓 INHA Univ. 🎓 </br>
 Information Communication Engineering </br>
 
@@ -26,10 +27,14 @@ Information Communication Engineering </br>
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=white"/> 
 <img src="https://img.shields.io/badge/React-query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
 
-#### In Learning
+#### Back-end
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> </br>
 <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+
+#### In Learning
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 
 #### Colab / Tools
@@ -46,22 +51,27 @@ Information Communication Engineering </br>
 
 ## Projects
 
-#### 🚕 모두의 택시 (24. 03~ ) <a href="https://github.com/modu-taxi">🔗 <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/RN-61DAFB?style=flat"/></a> 
+#### 🚕 모두의 택시 (24. 03~ ) <a href="https://github.com/modu-taxi/ios"> <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/RN-61DAFB?style=flat"/></a> 
+대학생을 위한 택시 합승 매칭 플랫폼 </br>
 as iOS (React-native) Developer </br>
 
-#### ✈️ TRIP-Y (23. 06~ ) <a href="https://github.com/UMC-TRIPY">🔗 <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/NEXT-000000?style=flat"/></a>
+#### 🔗 Link.zip (24. 07~ ) <a href=""> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat"/> <img src="https://img.shields.io/badge/express-000000?style=flat"/> </a>
+나만을 위한 링크 아카이빙 플랫폼 </br>
+as BE Developer (OAuth) </br>
+
+#### ✈️ TRIP-Y (23. 06~ ) <a href="https://github.com/UMC-TRIPY/web-front"> <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/NEXT-000000?style=flat"/></a>
 여행의 시작부터 끝까지, TRIPY와 함께 </br>
 as FE Developer </br>
 
-#### 🗳️ 종합설계 프로젝트 (23. 08~ 23. 12) <a href="https://github.com/Inha-ICE-Capstone">🔗 <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/NEXT-000000?style=flat"/></a>
+#### 🗳️ 종합설계 프로젝트 (23. 08~ 23. 12) <a href="https://github.com/Inha-ICE-Capstone/capstone-design-FE"> <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/NEXT-000000?style=flat"/></a>
 블록체인을 활용한 신뢰성 있는 전자투표 플랫폼과 인공지능 활용 방안 연구 </br>
 as FE Developer, UI/UX Designer & AI </br>
 
-#### 🪴 하고심다 (24. 01~ ) <a href="https://github.com/wantPlant">🔗 <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat"/> </a>
+#### 🪴 하고심다 (24. 01~ ) <a href="https://github.com/wantPlant/wantPlant_WFE"> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat"/> </a>
 화분에 물을 주며 나만의 정원을 가꾸는 투두리스트 플랫폼 </br>
 as FE Lead Developer </br>
 
-#### 👣 당신의 발자취 (22. 12~ 23. 02) <a href="https://github.com/UMC-Foot-Step">🔗 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat"/></a>
+#### 👣 당신의 발자취 (22. 12~ 23. 02) <a href="https://github.com/UMC-Foot-Step"> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat"/></a>
 당발에서 당신의 발자국을 남겨보세요 </br>
 as UI/UX Designer </br> 
 
