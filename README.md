@@ -49,7 +49,7 @@ Information Communication Engineering </br> </p>
 
 #### 🔗 Link.zip (24. 07~ ) <a href=""> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat"/> <img src="https://img.shields.io/badge/express-000000?style=flat"/> </a>
 나만을 위한 링크 아카이빙 플랫폼 </br>
-``redis를 사용한 OAuth, 카카오 로그인 구현``<br>
+``redis를 사용한 OAuth(카카오 로그인) 구현``<br>
 ``UMC 6th DEMODAY DAY3 대상``
 
 #### ✈️ TRIP-Y (23. 06~ ) <a href="https://github.com/UMC-TRIPY/web-front"> <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/NEXT-000000?style=flat"/></a>
