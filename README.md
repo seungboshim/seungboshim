@@ -44,6 +44,7 @@ Information Communication Engineering </br> </p>
 대학생을 위한 택시 합승 매칭 플랫폼 </br>
 ``네이버 지도/검색 관련 기능 및 애플 로그인 구현``<br>
 ``네이티브 환경에서 필요한 권한의 hook화``<br>
+``Jira를 활용한 프로젝트 관리 및 Husky 설정``<br>
 ``배포 및 앱스토어 등록 승인``
 
 #### 🔗 Link.zip (24. 07~ ) <a href=""> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat"/> <img src="https://img.shields.io/badge/express-000000?style=flat"/> </a>
