@@ -45,7 +45,7 @@ Information Communication Engineering </br> </p>
 ## Projects
 
 #### ✂ 두리묭실 (24. 11~ ) <a href="https://github.com/Duri-Salon/Duri-FE"><img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> <img src="https://img.shields.io/badge/React-087EA4?style=flat"/></a>
-반려견 ~ 미용사 간 미용 중개 서비스 </br>
+고객 ~ 미용사 간 반려견 미용 중개 서비스 </br>
 ``Turborepo 기반 멀티 도메인 플랫폼``<br>
 ``네이버 소셜 로그인 및 인터셉터/에러핸들러 구현``<br>
 ``미용사 도메인 기능 구현 담당``
